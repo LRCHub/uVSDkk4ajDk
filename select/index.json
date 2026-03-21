@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "base_track": "My Resort",
+  "base_artist": "¥ellow Bucks",
+  "createdAt": "2026-03-21T04:01:46.740546Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My Resort",
+      "artist": "¥ellow Bucks",
+      "has_synced": true,
+      "path": "select/01_My_Resort_¥ellow_Bucks.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "My Resort Pt. 2",
+      "artist": "¥ELLOW BUCKS",
+      "has_synced": false,
+      "path": "select/02_My_Resort_Pt._2_¥ELLOW_BUCKS.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Last Resort",
+      "artist": "Midland",
+      "has_synced": true,
+      "path": "select/03_The_Last_Resort_Midland.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Last Resort",
+      "artist": "Midland",
+      "has_synced": true,
+      "path": "select/04_The_Last_Resort_Midland.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Last Resort",
+      "artist": "Ancient Bards",
+      "has_synced": false,
+      "path": "select/05_The_Last_Resort_Ancient_Bards.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Last Resort - 2013 Remaster",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/06_The_Last_Resort_-_2013_Remaster_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Last Resort",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/07_The_Last_Resort_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gentle Spike Resort",
+      "artist": "Grandaddy",
+      "has_synced": true,
+      "path": "select/08_Gentle_Spike_Resort_Grandaddy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Last Resort",
+      "artist": "Papa Roach",
+      "has_synced": true,
+      "path": "select/09_Last_Resort_Papa_Roach.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Last Resort",
+      "artist": "Papa Roach",
+      "has_synced": true,
+      "path": "select/10_Last_Resort_Papa_Roach.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Last Resort (Bonus Track)",
+      "artist": "Papa Roach",
+      "has_synced": true,
+      "path": "select/11_Last_Resort_(Bonus_Track)_Papa_Roach.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Your Last Resort",
+      "artist": "NOFX",
+      "has_synced": true,
+      "path": "select/12_Your_Last_Resort_NOFX.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Last Resort",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/13_The_Last_Resort_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Last Resort - 2013 Remaster",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/14_The_Last_Resort_-_2013_Remaster_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Last Resort - (Live) Explicit Version",
+      "artist": "Papa Roach",
+      "has_synced": false,
+      "path": "select/15_Last_Resort_-_(Live)_Explicit_Version_Papa_Roach.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Last Resort (Reloaded)",
+      "artist": "Papa Roach feat. Jeris Johnson",
+      "has_synced": true,
+      "path": "select/16_Last_Resort_(Reloaded)_Papa_Roach_feat._Jeris_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Last Resort (Reloaded)",
+      "artist": "Papa Roach",
+      "has_synced": true,
+      "path": "select/17_Last_Resort_(Reloaded)_Papa_Roach.lrc"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "My Resort",
+      "artist": "¥ellow Bucks",
+      "has_synced": false,
+      "path": "select/localdb_01_My_Resort_¥ellow_Bucks.txt",
+      "repo_name": "dv5gWjEUkaY"
+    }
+  ]
+}
